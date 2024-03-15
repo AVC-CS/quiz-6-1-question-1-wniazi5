@@ -36,7 +36,7 @@ void getTwoValues(int begin, int end){
             }
             return prev;
         }
-    
+       
 
 // ******************************
 // Implement all your functions here
